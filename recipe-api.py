@@ -2,9 +2,11 @@ from recipe_scrapers import scrape_me
 import csv
 import json
 
+csv_file = 'recipe_urls.csv'
 category = 'recipes'
+json_file = 'recipes.json'
 
-with open('recipe_urls.csv', 'r') as fd:
+with open(csv_file, 'r') as fd:
     reader = csv.reader(fd)
 
     data = {}
@@ -27,6 +29,6 @@ with open('recipe_urls.csv', 'r') as fd:
     json_object = json.dumps(data, indent = 5)
 
     # Writing to recipes.json
-    with open('recipes.json', "w") as outfile:
+    with open(json_file, "w") as outfile:
         outfile.write(json_object)
 
