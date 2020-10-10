@@ -1,34 +1,32 @@
-{
-     "recipes": [
-          {
-               "title": "Fluffy Pancakes Recipe by Tasty",
-               "yields": "4 pancakes",
-               "ingredients": [
-                    "4 cups flour, sifted",
-                    "4 tablespoons baking powder",
-                    "4 cups milk, warm to the touch",
-                    "\u00be cup butter, melted",
-                    "3 egg yolks",
-                    "4 egg whites",
-                    "maple syrup, to serve"
-               ],
-               "instructions": "Whisk together the flour and baking powder in a large bowl.\nIn a separate bowl, add the butter, milk, and egg yolks, stirring to combine.\nIn a third bowl, use a hand mixer to beat the egg whites until soft peaks form.\nPour the milk mixture into the flour mixture and stir with rubber spatula until just combined. Add the beaten egg whites and gently fold to combine.\nHeat an 8-inch (20cm) nonstick skillet over low heat. Pour 1 \u00bd cups of pancake batter into the skillet, smooth out the top, then cover with a lid. Cook until golden brown on the bottom and a toothpick inserted into the center comes out clean, about 20 minutes. Transfer the pancake to a plate and repeat, making 3 more pancakes with the remaining batter.\nServe with maple syrup.\nEnjoy!",
-               "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/119674.jpg"
-          },
-          {
-               "title": "Apple Slab Pie Recipe by Tasty",
-               "yields": "12 servings",
-               "ingredients": [
-                    "5 cups granny smith apples, about 8 medium size apples, chopped",
-                    "\u00be cup sugar",
-                    "3 tablespoons cornstarch",
-                    "2 teaspoons cinnamon",
-                    "1 salt, pinch",
-                    "orange zest, to taste",
-                    "4 refrigerated pie crusts, 8-inch (20 cm) pie crust"
-               ],
-               "instructions": "Preheat oven to 400\u00b0F (200\u02daC).\nPeel, core, and cut apples into \u00bd-inch (1 \u00bc cm) chunks.\nIn a bowl, mix the chopped apples, sugar, cornstarch, cinnamon, salt, and orange zest. Set aside.\nOn parchment paper, stack 2 pie crusts on top of each other. Roll out to 17 inches by 12 inches (43 cm by 30 cm). Cut diagonally into \u00be-inch (2 cm) strips.\nRoll out another 2 pie crusts. Place on a 15 x 10 x 1 inch ( 38 x 26 x 3 cm) baking sheet.\nSpread out apple mixture into the crust, then form a lattice top with the pie crust strips. Tuck the crust inward around the edges, and bake for 35-40 minutes at 400\u00b0F (200\u02daC).\nServe warm with ice cream.\nEnjoy!",
-               "image": "https://img.buzzfeed.com/video-api-prod/assets/753b96cc805d4c43accbb9f7855a6602/BFV17319_Apple_Slab_Pie-thumb_fb.jpg"
-          }
-     ]
-}
+[
+     {
+          "title": "Fluffy Pancakes Recipe by Tasty",
+          "yields": "4 pancakes",
+          "ingredients": [
+               "4 cups flour, sifted",
+               "4 tablespoons baking powder",
+               "4 cups milk, warm to the touch",
+               "\u00be cup butter, melted",
+               "3 egg yolks",
+               "4 egg whites",
+               "maple syrup, to serve"
+          ],
+          "instructions": "Whisk together the flour and baking powder in a large bowl.\nIn a separate bowl, add the butter, milk, and egg yolks, stirring to combine.\nIn a third bowl, use a hand mixer to beat the egg whites until soft peaks form.\nPour the milk mixture into the flour mixture and stir with rubber spatula until just combined. Add the beaten egg whites and gently fold to combine.\nHeat an 8-inch (20cm) nonstick skillet over low heat. Pour 1 \u00bd cups of pancake batter into the skillet, smooth out the top, then cover with a lid. Cook until golden brown on the bottom and a toothpick inserted into the center comes out clean, about 20 minutes. Transfer the pancake to a plate and repeat, making 3 more pancakes with the remaining batter.\nServe with maple syrup.\nEnjoy!",
+          "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/119674.jpg"
+     },
+     {
+          "title": "Apple Slab Pie Recipe by Tasty",
+          "yields": "12 servings",
+          "ingredients": [
+               "5 cups granny smith apples, about 8 medium size apples, chopped",
+               "\u00be cup sugar",
+               "3 tablespoons cornstarch",
+               "2 teaspoons cinnamon",
+               "1 salt, pinch",
+               "orange zest, to taste",
+               "4 refrigerated pie crusts, 8-inch (20 cm) pie crust"
+          ],
+          "instructions": "Preheat oven to 400\u00b0F (200\u02daC).\nPeel, core, and cut apples into \u00bd-inch (1 \u00bc cm) chunks.\nIn a bowl, mix the chopped apples, sugar, cornstarch, cinnamon, salt, and orange zest. Set aside.\nOn parchment paper, stack 2 pie crusts on top of each other. Roll out to 17 inches by 12 inches (43 cm by 30 cm). Cut diagonally into \u00be-inch (2 cm) strips.\nRoll out another 2 pie crusts. Place on a 15 x 10 x 1 inch ( 38 x 26 x 3 cm) baking sheet.\nSpread out apple mixture into the crust, then form a lattice top with the pie crust strips. Tuck the crust inward around the edges, and bake for 35-40 minutes at 400\u00b0F (200\u02daC).\nServe warm with ice cream.\nEnjoy!",
+          "image": "https://img.buzzfeed.com/video-api-prod/assets/753b96cc805d4c43accbb9f7855a6602/BFV17319_Apple_Slab_Pie-thumb_fb.jpg"
+     }
+]
